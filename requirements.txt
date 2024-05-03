@@ -1,0 +1,13 @@
+Flask==2.0.1
+Flask-Cors==4.0.0
+flask-mongoengine==1.0.0
+Flask-WTF==1.2.1
+mongoengine==0.27.0
+Werkzeug==2.0.1
+configparser==6.0.0
+python-consul==1.1.0
+python-dotenv==1.0.0
+openai
+jira==3.5.2
+bcrypt
+pyjwt
